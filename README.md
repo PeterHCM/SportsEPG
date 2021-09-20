@@ -6,7 +6,7 @@
 
 Lịch phát sóng EPG (Electronic Program Guide) cho các kênh truyền hình thể thao như  Bein Sport, Astro, Sky,..
 
-## Usage
+## Hướng dẫn dùng
 <details>
 <summary>Expand</summary>
 <br>
@@ -23,6 +23,6 @@ Lịch phát sóng EPG (Electronic Program Guide) cho các kênh truyền hình 
 </details>
 
 
-## Contribution
+## Nguồn tham khảo
 
 Có tham khảo từ nguồn IPTV

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<site site="tienkhoi.com.vn">
+  <channels>
+    <channel site_id="BeinSports1" xmltv_id="BeInSports1Turkiye.qa">BeIn Sports 1 Türkiye</channel>
+    <channel site_id="BeinSports2" xmltv_id="BeInSports2Turkiye.qa">BeIn Sports 2 Türkiye</channel>
+    <channel site_id="BeinSports1" xmltv_id="BeInSports3Turkiye.qa">BeIn Sports 3 Türkiye</channel>
+  </channels>
+</site>

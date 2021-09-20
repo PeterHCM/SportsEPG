@@ -25,4 +25,4 @@ Lịch phát sóng EPG (Electronic Program Guide) cho các kênh truyền hình 
 
 ## Nguồn tham khảo
 
-Có tham khảo từ nguồn IPTV
+Có tham khảo từ nguồn IPTV-ORG

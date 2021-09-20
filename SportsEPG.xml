@@ -1,8 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <site site="tienkhoi.com.vn">
   <channels>
-    <channel site_id="BeinSports1" xmltv_id="BeInSports1Turkiye.qa">BeIn Sports 1 Türkiye</channel>
-    <channel site_id="BeinSports2" xmltv_id="BeInSports2Turkiye.qa">BeIn Sports 2 Türkiye</channel>
-    <channel site_id="BeinSports1" xmltv_id="BeInSports3Turkiye.qa">BeIn Sports 3 Türkiye</channel>
+    <channel site_id="BeinSports1" xmltv_id="BeInSports1Turkiye.qa">BeIn Sports 1</channel>
+    <channel site_id="BeinSports2" xmltv_id="BeInSports2Turkiye.qa">BeIn Sports 2</channel>
+    <channel site_id="BeinSports1" xmltv_id="BeInSports3Turkiye.qa">BeIn Sports 3</channel>
+    <channel site_id="AstroSuperSport" xmltv_id="AstroSuperSport.my">Astro SuperSport</channel>
+    <channel site_id="AstroSuperSport2" xmltv_id="AstroSuperSport2.my">Astro SuperSport 2</channel>
+    <channel site_id="AstroSuperSport3" xmltv_id="AstroSuperSport3.my">Astro SuperSport 3</channel>
+    <channel site_id="AstroSuperSport4" xmltv_id="AstroSuperSport4.my">Astro SuperSport 4</channel>
   </channels>
 </site>

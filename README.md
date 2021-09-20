@@ -16,7 +16,7 @@ Lịch phát sóng EPG (Electronic Program Guide) cho các kênh truyền hình 
     <tr><th align="left">Country</th><th align="left">EPG</th></tr>
   </thead>
   <tbody>
-    <tr><td align="left" nowrap>🇩🇿 Algeria</td><td align="left" nowrap><code>https://iptv-org.github.io/epg/guides/elcinema.com.guide.xml</code></td></tr>
+    <tr><td align="left" nowrap>VN Vietnam</td><td align="left" nowrap><code>https://iptv-org.github.io/epg/guides/elcinema.com.guide.xml</code></td></tr>
   </tbody>
 </table>
 
